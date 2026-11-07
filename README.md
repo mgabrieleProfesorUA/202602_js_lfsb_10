@@ -4,6 +4,9 @@ Ciclo 2026-02 UA Laboratorio 10
 ```
 git clone -b "feat(implementacion)" https://github.com/mgabrieleProfesorUA/202602_js_lfsb_10.git
 ```
+## Cambiar el tipo a module del archivo package.json
+![alt text](image-1.png)
+
 ## instalar modulos NPM
 ```
 npm install typescript --save-d
