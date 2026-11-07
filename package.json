@@ -20,5 +20,8 @@
   "homepage": "https://github.com/mgabrieleProfesorUA/202602_js_lfsb_10#readme",
   "devDependencies": {
     "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "tsyringe": "^4.10.0"
   }
 }

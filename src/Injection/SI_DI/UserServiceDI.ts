@@ -1,4 +1,4 @@
-class EmailServiceDI{
+export default class EmailServiceDI{
     sendEmail(message: string): void {
         console.log(`Email sent: ${message}`);
     }
