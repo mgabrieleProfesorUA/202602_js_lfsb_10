@@ -12,6 +12,9 @@ npm install typescript --save-d
 ```
 npx tsc -init
 ```
+## Descomentar las lineas relacionadas al Source (src) y Distribution (dist) del archivo tsconfig.json
+![alt text](image.png)
+
 ## Compilar proyecto TypeScript
 ```
 npx tsc
